@@ -2549,9 +2549,9 @@ releases:
   version: 0.203.0
   sha1: 447a855912fa735685d9fe18bc33682b90e061c7
 - name: credhub
-  url: https://bosh.io/d/github.com/pivotal-cf/credhub-release?v=2.8.0
-  version: 2.8.0
-  sha1: 3a9732bab2fa80bb9431941193b6569ef29af491
+  url: https://bosh.io/d/github.com/pivotal-cf/credhub-release?v=2.10.0
+  version: 2.10.0
+  sha1: 63424e62db3261bf0de3888c4b5c81deee985eb8
 - name: diego
   url: https://bosh.io/d/github.com/cloudfoundry/diego-release?v=2.48.0
   version: 2.48.0
