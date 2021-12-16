@@ -2634,7 +2634,7 @@ releases:
 - name: app-autoscaler
   url: https://github.com/HCL-Cloud-Native-Labs/cfmr-uaa-bosh-release/releases/download/app-autoscaler-v3.0.2/app-autoscaler-release-3.0.2.tgz
   version: 3.0.2
-  sha1: 2fb55cbf68393720fa5f9f811baa8328a9fdebe4
+  sha1: 82869e9cf18c7489400486f405f7230df4f803f5
 - name: loggregator-agent
   url: https://bosh.io/d/github.com/cloudfoundry/loggregator-agent-release?v=6.1.1
   version: 6.1.1
