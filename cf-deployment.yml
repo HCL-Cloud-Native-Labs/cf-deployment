@@ -2549,9 +2549,9 @@ releases:
   version: 0.203.0
   sha1: 447a855912fa735685d9fe18bc33682b90e061c7
 - name: credhub
-  url: https://bosh.io/d/github.com/pivotal-cf/credhub-release?v=2.10.0
-  version: 2.10.0
-  sha1: 63424e62db3261bf0de3888c4b5c81deee985eb8
+  url: https://github.com/HCL-Cloud-Native-Labs/cfmr-uaa-bosh-release/releases/download/credhub-v2.11.1/credhub-release-2.11.1.tgz
+  version: 2.11.1
+  sha1: 850387b774d3aa91b4384f1918cb2379ef71f2bc
 - name: diego
   url: https://bosh.io/d/github.com/cloudfoundry/diego-release?v=2.48.0
   version: 2.48.0
@@ -2629,12 +2629,13 @@ releases:
   version: 1.11.15
   sha1: a0a2d33c6ab7d8fec8c017ea6f2c5a344af1407c
 - name: uaa
-  url: https://github.com/HCL-Cloud-Native-Labs/cfmr-uaa-bosh-release/releases/download/v74.24.1/uaa-release-v74.24.1.tgz
-  version: 74.24.1
+  url: https://github.com/HCL-Cloud-Native-Labs/cfmr-uaa-bosh-release/releases/download/v74.24.2/uaa-release-v74.24.2.tgz
+  version: 74.24.2
+  sha1: 107e59a1dd0c0f6493cba01311a87ff4b0c4898b
 - name: app-autoscaler
-  url: https://github.com/HCL-Cloud-Native-Labs/cfmr-uaa-bosh-release/releases/download/app-autoscaler-v3.0.2/app-autoscaler-release-3.0.2.tgz
-  version: 3.0.2
-  sha1: 82869e9cf18c7489400486f405f7230df4f803f5
+  url: https://github.com/HCL-Cloud-Native-Labs/cfmr-uaa-bosh-release/releases/download/app-autoscaler-v3.0.3/app-autoscaler-release-3.0.3.tgz
+  version: 3.0.3
+  sha1: 704d2389f2292efca4a64f51857c5f03f40ac09c
 - name: loggregator-agent
   url: https://bosh.io/d/github.com/cloudfoundry/loggregator-agent-release?v=6.1.1
   version: 6.1.1
