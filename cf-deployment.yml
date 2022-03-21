@@ -2581,9 +2581,9 @@ releases:
   version: 3.0.1
   sha1: 4219b58972d20f6fccf1a4a167d915e34d86ee8a
 - name: nats
-  url: https://bosh.io/d/github.com/cloudfoundry/nats-release?v=34
-  version: "34"
-  sha1: 0d7f4c3203c926e79d85d07b1ac215d73c9268c3
+  url: https://bosh.io/d/github.com/cloudfoundry/nats-release?v=39
+  version: "39"
+  sha1: 269e60d95ec9694e6807a7f8e32634c7e2651232
 - name: nginx-buildpack
   url: https://bosh.io/d/github.com/cloudfoundry/nginx-buildpack-release?v=1.1.12
   version: 1.1.12
